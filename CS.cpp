@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include <vector> // Added for predefined services
+#include <vector>
+ // Added for predefined services
 using namespace std;
 const int MAX_SIZE = 100;
 const double COST_PER_GUEST = 25.0;
